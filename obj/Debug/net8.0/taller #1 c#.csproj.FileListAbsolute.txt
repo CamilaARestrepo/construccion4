@@ -1,0 +1,14 @@
+D:\Nueva carpeta (4)\taller #1 c#\bin\Debug\net8.0\taller #1 c#.exe
+D:\Nueva carpeta (4)\taller #1 c#\bin\Debug\net8.0\taller #1 c#.deps.json
+D:\Nueva carpeta (4)\taller #1 c#\bin\Debug\net8.0\taller #1 c#.runtimeconfig.json
+D:\Nueva carpeta (4)\taller #1 c#\bin\Debug\net8.0\taller #1 c#.dll
+D:\Nueva carpeta (4)\taller #1 c#\bin\Debug\net8.0\taller #1 c#.pdb
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.AssemblyInfoInputs.cache
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.AssemblyInfo.cs
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.csproj.CoreCompileInputs.cache
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.dll
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\refint\taller #1 c#.dll
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.pdb
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\taller #1 c#.genruntimeconfig.cache
+D:\Nueva carpeta (4)\taller #1 c#\obj\Debug\net8.0\ref\taller #1 c#.dll
