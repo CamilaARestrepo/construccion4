@@ -178,7 +178,6 @@ do
     case 4:
 
       int conta = 0;
-      int validador = 0;
       string p1 = "gato";
       string p2 = "en";
       string p3 = "jardin";
@@ -266,7 +265,7 @@ do
 
       }
 
-      if (conta == 5)
+      if (conta == 10)
       {
         Console.WriteLine("Moriste!");
         Console.WriteLine("-----------------------");
